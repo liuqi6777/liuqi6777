@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @liuqi6777
-- 👀 I’m interested in python and AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Liu Qi, a Chinese student in RUCGSAI, majoring in Artificial Intelligence.
+- 👀 I’m interested in C/C++, python and AI.
+<!-- - 📖 I’m now learning  -->
+- 📧 liuqi_67@ruc.edu.cn
 
 <!---
 liuqi6777/liuqi6777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
