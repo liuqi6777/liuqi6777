@@ -1,4 +1,4 @@
-# 👋 Hi! You find me.
+# 👋 Hi there!.
 
 - 👨‍🎓 I am a student of Renmin University of China.
 - 💻 My major is Artificial Intelligence.
