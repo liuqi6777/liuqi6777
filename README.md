@@ -2,12 +2,10 @@
 
 - 👨‍🎓 I am a student of Renmin University of China.
 - 💻 My major is Artificial Intelligence.
-- 📖 I am currently learning C/C++, Python.
-- ⭐ I am interested in Mechine Learning, Data Science, Information Retrieval and Search system.
-- 📝 Now I am studying website development.
+- ⭐ I am interested in Mechine Learning, Natural Language Processing and Information Retrieval.
 - 🔖 You can learn more about me in my blog: https://liuqi6777.github.io.
 - 📧 And my e-mail: liuqi_67@ruc.edu.cn.
-- 🤝 Looking forward to meeting you who also love technology.
+- 🤝 Looking forward to meeting you who also love AI.
 
 <!---
 liuqi6777/liuqi6777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
