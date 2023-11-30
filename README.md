@@ -1,11 +1,8 @@
 # 👋 Hi there!
 
-- 👨‍🎓 I am a student of Renmin University of China.
-- 💻 My major is Artificial Intelligence.
-- ⭐ I am interested in Mechine Learning, Natural Language Processing and Information Retrieval.
-- 🔖 You can learn more about me in my blog: https://liuqi6777.github.io.
-- 📧 And my e-mail: liuqi_67@ruc.edu.cn.
-- 🤝 Looking forward to meeting you who also love AI.
+- 👨‍🎓 I am a student at Renmin University of China, majoring in Artificial Intelligence.
+- ⭐ My research interests include information retrieval and natural language processing.
+- 🔖 You can learn more about me on my homepage: https://liuqi6777.github.io.
 
 <!---
 liuqi6777/liuqi6777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
