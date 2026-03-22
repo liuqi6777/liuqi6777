@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 - 👨‍🎓 I am a student at Renmin University of China, majoring in Artificial Intelligence.
-- ⭐ My research interests include information retrieval and natural language processing.
+- ⭐ My research interests include information retrieval and large language models.
 - 🔖 You can learn more about me on my homepage: https://liuqi6777.github.io.
 
 <!---
